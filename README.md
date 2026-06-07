@@ -12,30 +12,15 @@
 
 </div>
 
-<br/>
-
-```javascript
-const waiser = {
-  alias   : "waiser1337",
-  discord : "69sh",
-  role    : "Full-Stack Developer",
-  stack   : ["React", "Next.js", "Node.js", "TypeScript", "PostgreSQL"],
-  hobbies : ["building cool stuff", "late-night coding", "open source"],
-  status  : "🟢 available for projects"
-};
-```
-
-<br/>
-
 <div align="center">
 
-## ⚡ Tech Stack
+## Tech Stack
 
 </div>
 
 <div align="center">
 
-**🖥️ Frontend**
+**Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -43,13 +28,13 @@ const waiser = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**⚙️ Backend**
+**Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**🗄️ Database & DevOps**
+**🗄️Database & DevOps**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -63,7 +48,7 @@ const waiser = {
 
 <div align="center">
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=waiser1337&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff6e96&icon_color=c792ea&text_color=a9b1d6&ring_color=ff6e96"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waiser1337&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6e96&text_color=a9b1d6"/>
@@ -86,7 +71,7 @@ const waiser = {
 
 <div align="center">
 
-## 🏆 Trophies
+## Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=waiser1337&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
 
@@ -96,12 +81,12 @@ const waiser = {
 
 <div align="center">
 
-## 📡 Connect
+## Contact
 
 | | |
 |:---:|:---:|
-| 💬 **Discord** | `69sh` |
-| 🐙 **GitHub** | [@waiser1337](https://github.com/waiser1337) |
+| **Discord** | `69sh` |
+| **GitHub** | [@waiser1337](https://github.com/waiser1337) |
 
 <br/>
 
