@@ -34,7 +34,7 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**🗄️Database & DevOps**
+**Database & DevOps**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -69,13 +69,7 @@
 
 <br/>
 
-<div align="center">
 
-## Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=waiser1337&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
-
-</div>
 
 <br/>
 
